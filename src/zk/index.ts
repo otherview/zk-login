@@ -1,0 +1,1 @@
+export { generateMockProof, verifyMockProof } from './mock.js';
